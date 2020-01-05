@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Suite对应测试套件,一个Suite可以有多个Test -->
+<suite name="ApiTestSuite">
+	<test name="Javamall">
+		<classes>
+			<class name="net.kitty.lesson.helloapi.lesson2019.Day2_5_PropGenerator" />
+	    	<class name="net.kitty.lesson.helloapi.lesson2019.Day2_5_PropConsumer" />
+		</classes>
+	</test>
+</suite>

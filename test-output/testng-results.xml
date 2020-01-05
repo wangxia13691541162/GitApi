@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ApiTestSuite" duration-ms="330" started-at="2020-01-05T07:23:06Z" finished-at="2020-01-05T07:23:06Z">
+    <groups>
+    </groups>
+    <test name="Javamall" duration-ms="330" started-at="2020-01-05T07:23:06Z" finished-at="2020-01-05T07:23:06Z">
+      <class name="net.kitty.lesson.helloapi.lesson2019.Day2_5_PropGenerator">
+        <test-method status="PASS" signature="test()[pri:0, instance:net.kitty.lesson.helloapi.lesson2019.Day2_5_PropGenerator@3375ebd3]" name="test" duration-ms="140" started-at="2020-01-05T15:23:06Z" finished-at="2020-01-05T15:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- net.kitty.lesson.helloapi.lesson2019.Day2_5_PropGenerator -->
+      <class name="net.kitty.lesson.helloapi.lesson2019.Day2_5_PropConsumer">
+        <test-method status="PASS" signature="test()[pri:0, instance:net.kitty.lesson.helloapi.lesson2019.Day2_5_PropConsumer@412ebe64]" name="test" duration-ms="24" started-at="2020-01-05T15:23:06Z" finished-at="2020-01-05T15:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- net.kitty.lesson.helloapi.lesson2019.Day2_5_PropConsumer -->
+    </test> <!-- Javamall -->
+  </suite> <!-- ApiTestSuite -->
+</testng-results>
